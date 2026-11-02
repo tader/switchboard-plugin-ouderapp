@@ -1,0 +1,8 @@
+{
+  "id": "ouderapp",
+  "name": "OuderApp van Konnect",
+  "version": "0.1.0",
+  "description": "Generic childcare updates, photos, messages, planning and optional requests.",
+  "main": "index.js",
+  "icon": "icon.svg"
+}
